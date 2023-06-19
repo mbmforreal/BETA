@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/BETA/static/css/main.ba8e377d.css",
+    "main.js": "/BETA/static/js/main.3d39b8ea.js",
+    "static/media/portableSeries.png": "/BETA/static/media/portableSeries.660c658f4c94a92126f4.png",
+    "static/media/wave-123.png": "/BETA/static/media/wave-123.57955a0c672e5efdc290.png",
+    "static/media/residentialSeries.png": "/BETA/static/media/residentialSeries.bcdf6eaff0614536dada.png",
+    "static/media/footerbg.jpg": "/BETA/static/media/footerbg.6053ff5d265ca79c7c2d.jpg",
+    "static/media/C&I.png": "/BETA/static/media/C&I.dbe257234ae90197e599.png",
+    "static/media/city.jpg": "/BETA/static/media/city.27ac7a6e28912e192863.jpg",
+    "static/media/betabg.png": "/BETA/static/media/betabg.ad0a44a56e82126d759c.png",
+    "static/media/components.png": "/BETA/static/media/components.18f3e68c9f2245e6e0fc.png",
+    "static/media/blueworld-10.png": "/BETA/static/media/blueworld-10.1da87a94e8ec250d7cd4.png",
+    "static/media/isecs.jpg": "/BETA/static/media/isecs.5b21a156eb5539bee5cd.jpg",
+    "static/media/psaom.png": "/BETA/static/media/psaom.d6d41eca59ef36133d2d.png",
+    "static/media/manual.png": "/BETA/static/media/manual.29c01a04d135b97b96d3.png",
+    "static/media/certificate.png": "/BETA/static/media/certificate.ada91c454eb40245fcb8.png",
+    "static/media/datasheet.png": "/BETA/static/media/datasheet.728983f8b9fa81575417.png",
+    "static/media/betaLight.png": "/BETA/static/media/betaLight.25df124d889c719b8ba2.png",
+    "static/media/brochure.png": "/BETA/static/media/brochure.6106800974bf9b450f0d.png",
+    "index.html": "/BETA/index.html",
+    "main.ba8e377d.css.map": "/BETA/static/css/main.ba8e377d.css.map",
+    "main.3d39b8ea.js.map": "/BETA/static/js/main.3d39b8ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba8e377d.css",
+    "static/js/main.3d39b8ea.js"
+  ]
+}
